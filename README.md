@@ -44,4 +44,8 @@ HematoVision: AI-Powered Blood Cell Classification
 
 **[Machine Learning[1].docx]**(https://github.com/user-attachments/files/20961896/Machine.Learning.1.docx)
 
+ Output :
+ 
+https://1drv.ms/i/c/9683ca9522cd664a/ESI7VV2z_Q1GvsKw8cGKI14BwHXXc_KjEsF2KGKARvVLdw
 
+https://1drv.ms/i/c/9683ca9522cd664a/EVmCjZQX1YJImBlCAMGwWuwBXEdWJqczTMfIdhKT4lAkAQ
